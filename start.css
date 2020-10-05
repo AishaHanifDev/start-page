@@ -1,0 +1,154 @@
+*{
+  margin:0px;
+  font-family:Verdana,sans-serif;
+
+}
+.wrapper{
+  width:100%;
+  over-flow:hidden;
+  
+}
+.top{
+   background-color:#F44336;
+   position:sticky;
+   top:0;
+   border:01px solid #F44336;
+   overflow:hidden;
+}
+.top a{
+    float:left;
+    text-align:center;
+    color:#FFFFFF;
+    background-color:#F44336;
+    font-size:18px;
+     padding:12px 24px;
+     text-decoration:none;
+}
+.top a:hover{
+    background-color:#FFFFFF;
+    color:black;
+}
+.active a{
+     background-color:white;
+     color:black;
+     
+}
+.active a:hover{
+     background-color:gray;
+     color:black;
+}
+.left{
+   color:#F44336;
+   font-size:90px;
+   float:right;
+   margin-right:100px;
+   
+}
+.right{
+     color:#F44336;
+     font-size:100px;
+     float:left;
+     margin-left:100px;
+}
+.head{
+   background-color:#F44336;
+   
+}
+.start,
+.up,
+.btn{
+    text-align:center;
+ }
+.start{
+    color:white;
+   padding:100px;
+   font-size:60px;
+    
+}
+.up{
+   padding-bottom:100px;
+   color:#FFFFFF;
+   font-size:25px;
+}
+.btn{
+     text-align:center;
+     padding-top:10px;
+     padding-bottom:30px;
+     font-size:25px;
+}
+.btn a{
+     color:white;
+     background-color:black;
+     
+}
+.btn a:hover{
+    background-color:gray;
+}
+
+.heading,
+.para,
+.last{
+       margin-left:100px; 
+}
+
+.heading{
+    margin-top:30px;
+    font-size:35px;
+}
+.para{
+   margin-top:30px;
+   color:black;
+   
+}
+.last{
+  padding-top:30px;
+  color:gray;
+}
+.write,
+.second,
+.third{
+   background-color:#f1f1f1;
+   font-family:sans-serif;
+   text-align:center;
+}
+
+.write{
+   margin-top:80px;
+   font-size:40px;
+  
+}
+.second,
+.third{
+    padding-top:30px;
+}
+.third{
+    color:gray;
+    padding-bottom:50px;
+}
+.bottom{
+    text-align:center;
+    background-color:#000000;
+    padding-bottom:100px;
+    color:white;
+    padding-top:60px;
+    font-size:25px;
+}
+.lst{
+  margin:auto;
+  display:block;
+  width:15%;
+  padding-top:30px;
+
+}
+.lower{ 
+    padding-bottom:10px;
+}
+.footer{
+    text-align:center;
+    padding-bottom:80px;
+    margin-top:10px;
+    
+
+}
+
+
